@@ -1,0 +1,17 @@
+{
+  "ABBACABA": [
+    {
+      "name": "roles",
+      "data": [
+        {
+          "name": "CEO",
+          "verified": false
+        },
+        {
+          "name": "Manager",
+          "verified": true
+        }
+      ]
+    }
+  ]
+}
